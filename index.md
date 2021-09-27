@@ -1,4 +1,4 @@
-# 达米圈 Privacy Policy
+# Privacy Policy
 
 Application respects and protects the personal privacy of all users of the service. In order to provide you with more accurate and personalized services, the application will use and disclose your personal information in accordance with the provisions of this Privacy Policy. However, the Application will treat such information with a high degree of care and prudence. Unless otherwise provided in this Privacy Policy, the app will not disclose or provide such information to any third party without your prior permission. The Application will update this Privacy Policy from time to time. By agreeing to the Application Service Use Agreement, you are deemed to have agreed to all contents of this Privacy Policy. This Privacy Policy is an integral part of the Application Service Use Agreement.
 
